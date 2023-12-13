@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Harsh 👋
+
+I am a Computer Science Graduate from New York University. I bring over 2 years of experience as a Machine Learning Engineer, specializing in ML model development, APIs, Backend, and scalable ML pipelines. My proficiency extends to implementing MLOps best practices to ensure efficient & sustainable ML workflows. Having worked at an early-stage AI startup, I possess valuable insights into end-to-end project development, enhancing my adaptability and problem-solving skills. Let's connect and explore the exciting possibilities at the intersection of technology and innovation!
+
+- 🌱 I’m currently learning LLMs, RAGs
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/harshapte/)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:ha2179@nyu.edu)
 
 <!--
 **harshapte26/harshapte26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
