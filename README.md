@@ -2,9 +2,12 @@
 
 I am a Computer Science Graduate from New York University. I bring over 2 years of experience as a Machine Learning Engineer, specializing in ML model development, APIs, Backend, and scalable ML pipelines. My proficiency extends to implementing MLOps best practices to ensure efficient & sustainable ML workflows. Having worked at an early-stage AI startup, I possess valuable insights into end-to-end project development, enhancing my adaptability and problem-solving skills. Let's connect and explore the exciting possibilities at the intersection of technology and innovation!
 
-- 🌱 I’m currently learning LLMs, RAGs
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-harshapte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshapte/)](https://www.linkedin.com/in/harshapte/)
-[![Gmail Badge](https://img.shields.io/badge/-ha2179@nyu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ha2179@nyu.edu)](mailto:ha2179@nyu.edu)
+- 🔭 I'm passionate about building scalable Machine Learning pipeline using MLOps best principles
+- 🌱 I’m currently learning about LLMs, RAGs
+
+#### 📫 Reach me at
+LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-harshapte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshapte/)](https://www.linkedin.com/in/harshapte/)
+Email : [![Gmail Badge](https://img.shields.io/badge/-ha2179@nyu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ha2179@nyu.edu)](mailto:ha2179@nyu.edu)
 
 <!--
 **harshapte26/harshapte26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
