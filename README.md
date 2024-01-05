@@ -6,8 +6,8 @@ I am a Computer Science Graduate from New York University. I bring over 2 years 
 - 🌱 I’m currently learning about LLMs, RAGs
 
 #### 📫 Reach me at
-LinkedIn : [![Linkedin Badge](https://img.shields.io/badge/-harshapte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshapte/)](https://www.linkedin.com/in/harshapte/)
-Email : [![Gmail Badge](https://img.shields.io/badge/-ha2179@nyu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ha2179@nyu.edu)](mailto:ha2179@nyu.edu)
+[![Linkedin Badge](https://img.shields.io/badge/-harshapte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshapte/)](https://www.linkedin.com/in/harshapte/)  
+[![Gmail Badge](https://img.shields.io/badge/-ha2179@nyu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ha2179@nyu.edu)](mailto:ha2179@nyu.edu)
 
 <!--
 **harshapte26/harshapte26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
